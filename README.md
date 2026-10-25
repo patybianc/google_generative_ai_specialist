@@ -113,5 +113,6 @@ Gerei o seu **Mapa Mental em PDF** e o arquivo de **Vídeo/Áudio MP4 de Revisã
 Deseja praticar agora com um trecho focado de perguntas do simulado ou quer revisar algum conceito específico da matriz de decisão?
 
 documento: [mapa-mental-generative-ai-leader.pdf](https://github.com/user-attachments/files/33933371/mapa-mental-generative-ai-leader.pdf)
+https://notebook.google.com/notebook/74b4cee1-f2ae-43cf-ae95-6b32dda19824/artifact/87c13ee2-30e5-4b63-b15d-171c0c0f0b93
 
 
